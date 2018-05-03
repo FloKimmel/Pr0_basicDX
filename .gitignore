@@ -1,0 +1,15 @@
+# ignore everything
+*
+
+# Except .gitignore itself
+!.gitignore
+
+# Except subdirectory
+!Pr0_1/
+
+# Except .cpp .h and .hlsl files
+!*.cpp
+!*.h
+!*.hlsl
+
+
